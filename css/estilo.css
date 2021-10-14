@@ -1,0 +1,14 @@
+.menu {
+    text-decoration: none;
+    background-color: brown;
+    border-radius: 15%;
+    color: white;
+    font-size: 15pt;
+    padding: 1%;
+    width: 100px;
+    display: inline-flex;
+    display:inline;
+}
+ul li {
+    display:inline;
+  }
